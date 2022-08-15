@@ -1,7 +1,7 @@
 on: 
   push:
     branches:
-    - main
+    - master
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
@@ -15,5 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
         server: ftp.simple2sale.com
-        username: 'simpletosale'
-        password: 'as[-24##asdfaf'
+        username: 's2s@simple2sale.com'
+        password: '.ZO(DM+vl~c2'
