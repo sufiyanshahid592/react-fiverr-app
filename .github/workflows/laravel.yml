@@ -16,4 +16,4 @@ jobs:
       with:
         server: 'ftp.simple2sale.com'
         username: 's2s@simple2sale.com'
-        password: 'as[-24##asdfaf'
+        password: 'as[-24##asdfaf' 
