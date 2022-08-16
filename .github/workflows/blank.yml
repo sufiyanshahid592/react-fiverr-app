@@ -14,6 +14,6 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:
-        server: 'simple2sale.com'
+        server: 'ftp.simpletosale.com'
         username: 's2s@simple2sale.com'
-        password: 'as[-24##asdfaf'
+        password: 'iqN,UF1Bm?#p'
