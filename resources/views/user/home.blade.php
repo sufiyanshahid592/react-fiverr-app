@@ -1,8 +1,10 @@
 <html>
 	<head>
 		<title>Home</title>
+		<meta name="csrf-token" content="@csrf">
 	</head>
 	<body>
-		<h1>Hello World!...</h1>
+		<div id="example"></div>
+		<script src="{{url('js/app.js')}}"></script>
 	</body>
 </html>
