@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 export default class Example extends Component {
     render() {
         return (
-            <h1>Sufiyan Shahid</h1>
+            <h1>Sufiyan</h1>
         );
     }
 }
