@@ -5,6 +5,6 @@
 	</head>
 	<body>
 		<div id="example"></div>
-		<script src="{{url('js/app.js'}}"></script>
+		<script src="{{url('js/app.js')}}"></script>
 	</body>
 </html>

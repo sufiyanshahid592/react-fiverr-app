@@ -1,10 +1,16 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from './Home.js';
 
 export default class Example extends Component {
     render() {
         return (
-            <h1>Sufiyan</h1>
+            <BrowserRouter>
+				<Routes>
+					<Route path="/" element={<Home />} />
+				</Routes>
+			</BrowserRouter>
         );
     }
 }

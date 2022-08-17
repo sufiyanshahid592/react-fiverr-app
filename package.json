@@ -27,6 +27,7 @@
     "dependencies": {
         "babel-loader": "^8.2.5",
         "react-clear-cache": "^1.4.12",
+        "react-router-dom": "^6.3.0",
         "vue-template-compiler": "^2.7.8"
     }
 }
